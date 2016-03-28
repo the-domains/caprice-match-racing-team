@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: '2015 var året då resultaten äntligen visade sig. Efter två års slit fick vi äntligen skörda frukten av våra ansträngningar. Höjdpunkter under året var vinst i USM, 3:a på SM, första tävlingen utanför norden och våra första vinster på lokala regattor.'
-datePublished: '2016-03-28T13:41:13.762Z'
-dateModified: '2016-03-28T13:40:55.779Z'
+datePublished: '2016-03-28T13:49:58.621Z'
+dateModified: '2016-03-28T13:49:37.830Z'
 title: Årsberättelse 2015
 author: []
+sourcePath: _posts/2016-03-28-arsberattelse-2015.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-28-arsberattelse-2015.md
-published: true
 url: arsberattelse-2015/index.html
 _type: Article
 
@@ -50,34 +50,28 @@ Vårt första deltagande i serien GKSS Club Match, en serie lokala tävlingar i 
 Under månaderna Juli och Augusti hade vi för avsikt att segla åtminstonde en tävling i Tallinn, men den blev tyvärr inställd med väldigt kort varsel.
 
 Efter sommaruppehållet seglade vi **Autumn Cup**, som också är svenska mästerskapen i match racing. Det blåste mycket och vi var lite oroliga då vi historiskt haft svårt i hårdvind. Grundomgången gick väldigt bra då vi placerade oss på en tredje plats med fem vinster och två förluster. I semifinalen förlorade vi med 0-2, men i tredjepris serien vann vi med 2-0\. Tävlingen gav oss en ordentlig självförtroende boost och vår prestation är något vi är otroligt stolta över.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2939cbb8-728a-4c63-9835-1d0035fcae17.png)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6937206e5d21aead20da23d52e7dc6c7/passthrough.png?height=422&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F2939cbb8-728a-4c63-9835-1d0035fcae17.png&width=750)
 
 Två veckor senare var det dags för **GKSS Club Match 4** som resulterade i teamets första tävlingsvinst. Två round robin genomfördes och vi slutade på första plats av fem deltagande team, med sex vinster och två förluster.
-
-Årets Ungdoms SM i match racing, med officiellt namn **Swedish Youth Nationals** seglades i Stenungsund 10-11/10\. Seglingsledningen hade väldigt svårt att överhuvudtaget genomföra ett mästerskap vilket resulterade i att endast fyra flighter av vår round robin kunde genomföras. Då vi var det enda team utan förluster i vår grupp gick vi vidare till finalen som avgjordes på en match som vi vann. Detta gjorde att vi blev svenska mästare i match racing för ungdomar. Vi fick genom detta också en inbjudan till Mästarnas Mästare.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2939cbb8-728a-4c63-9835-1d0035fcae17.png)
 
 Helgen efter USM åkte vi till Båstad för att segla **Mästarnas Mästare** som inte är en match racing tävling, men är ändå en av årets höjdpunkter. Tävlingen seglades i formen sprint i båttypen J/70 som har en gennaker. Vi hade bara seglat båttypen en gång tidigare och det märkes när tävlingen dragit igång. Det var väldigt lätt vind, men vi märkte att våra match racing kunskaper gjorde oss konkurrenskraftiga. Vi missade på precis slutspelet och hamnade på plats 21 av 40\. Formatet var riktigt roligt och vi hoppas få komma tillbaka i framtiden.
 
 Årets näst sista regatta blev **GKSS Club Match 3**. Den skulle egentligen seglats i Augusti, men blev flyttad på grund av dubbelbokning, där av fel ordning mot tidigare GKSS Club Match. Det var hård vind och endast en round robin kunde genomföras. Vi hamnade på  första plats med tre vinster och inga förluster.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff69a5f2-b5c2-470e-8f74-130381caa8e3.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bbb81f28fd2bbd6d839632d41975e085/passthrough.jpg?height=600&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fff69a5f2-b5c2-470e-8f74-130381caa8e3.jpg&width=400)
 
 När året närmade sig sitt slut fick vi ett litet spel och tänkte att det var alldeles för långt till nästa gång vi kunde hoppa ner i en båt och segla tillsammans. Vi åkte då ner till Trieste, Italien för att segla **International Christmas J/24 Match Race**. Här seglades ganska slitna J/24 i hårdvind eller ingen vind alls. Vi fick tyvärr vara med om det sista, nästa stiltje i fyra dagar. Trots detta fick tränat lite grann och seglat två matcher i en för oss ny båttyp. Tyvärr förlorade båda matcherna, men vi hade riktigt roligt. Som team tog vi flera viktiga steg, där en bättre kunskap och förståelse om de andra individerna i teamet var viktigast.Några nyckeltal:
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff69a5f2-b5c2-470e-8f74-130381caa8e3.jpg)
 
-* Vi har totalt **35** vunna matcher och **32 **förlorade matcher.
-  * Under hösten fick vi 22 vinster och 8 förluster. 
-  * Under våren fick 13 vinster och 24 förluster.
-* Vi steg från plats **294 **till**90 **(18/11) på World Sailings (fd ISAF) världsranking.
-
-# För jämförelse: 2014 hade vi 10 vunna matcher och 30 förluster.
+För jämförelse: 2014 hade vi 10 vunna matcher och 30 förluster.
 
 ## Träningar
 
 Under året har vi försökt att träna så mycket det är möjligt. Då Viktor och Fredrik åker från Jönköping till Göteborg för varje träningspass har vi försökt vara disciplinerade och effektiva när det är träning. I GKSS har vi tränat 39 tillfällen i totalt 114 timmar. Denna tid är utsprid över de 22 veckor båtarna låg i vattnet och vi hade tillgång till dem.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10d30a36-d055-4e5d-8847-c89d146ab21c.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5a6c0d721a2b5413909e27e2bfe24a4d/passthrough.jpg?height=500&input=https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fthe-grid-img%2Fp%2Fbbc966c105851a7ca9438cd8a8d1075292e7fc9f.jpg&width=750)
 
 Förutom träning i GKSS har varje tävling varit effektiva träningstillfällen. Det har bjudit på många matcher och gett oss andra kunskaper än vad som är möjligt på kvällsträningar. Vi har också varit på Hönö unde hösten och haft en heldagsträning med Red Ocean Sailing Team där vi fokuserade på starter i J/70\.
-
-## Kunskapsutveckling
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/10d30a36-d055-4e5d-8847-c89d146ab21c.jpg)
 
 Vi har under året seglat i fem olika båtyper, på sex olika platser. Det har gett oss mycket erfarenhet i både båthantering och tävlingserfarenhet. Framförallt har vi utvecklats tillsammans. Starten på året var oviss i och med flera avhopp, för att sedan bli fulltaliga igen och starkare än någonsin. Resultaten har kommit med förbättrade manövrar och mer tid på vattnet, samt en kontinuitet i träningen eftersom vi nu är samma fem som alltid tränar tillsammans.
 
