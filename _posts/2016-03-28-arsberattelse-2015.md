@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: '2015 var året då resultaten äntligen visade sig. Efter två års slit fick vi äntligen skörda frukten av våra ansträngningar. Höjdpunkter under året var vinst i USM, 3:a på SM, första tävlingen utanför norden och våra första vinster på lokala regattor.'
-datePublished: '2016-03-28T13:49:58.621Z'
-dateModified: '2016-03-28T13:49:37.830Z'
+datePublished: '2016-03-28T13:51:07.296Z'
+dateModified: '2016-03-28T13:50:05.184Z'
 title: Årsberättelse 2015
 author: []
 sourcePath: _posts/2016-03-28-arsberattelse-2015.md
