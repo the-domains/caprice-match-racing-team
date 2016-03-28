@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Caprice Match Racing Team]]></title>
         <description><![CDATA[Caprice Match Racing Team]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/caprice-match-racing-team/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 13:25:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Mar 2016 13:42:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/caprice-match-racing-team/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Årsberättelse 2015]]></title>
+            <description><![CDATA[<article><h1>Årsberättelse 2015</h1><h2>Förändringar i teamet</h2><p>2015 var året då resultaten äntligen visade sig. Efter två års slit fick vi äntligen skörda frukten av våra ansträngningar. Höjdpunkter under året var vinst i USM, 3:a på SM, första tävlingen utanför norden och våra första vinster på lokala regattor.</p></article>]]></description>
+            <link>https://thegrid.ai/caprice-match-racing-team/arsberattelse-2015/index.html</link>
+            <guid isPermaLink="false">d83a3f92-a930-42a9-b13a-536c62260ff9</guid>
+            <pubDate>Mon, 28 Mar 2016 13:41:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[USM 2015]]></title>
             <description><![CDATA[<article><h1>USM 2015</h1><p>Helgens USM i match race vid Stenungsund Segelsällskap har helt klart omdefinierat begreppet lättvind. Medelvinden under helgens matcher har legat på ungefär 1 m/s. Det är få gånger jag har varit med om en tävling med så lite vind under båda dagarna av en tävling.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dca41e94-3b88-456f-a2fd-bc6b9e968b9a.jpg"></article>]]></description>
-            <link>undefinedusm-2015/index.html</link>
+            <link>https://thegrid.ai/caprice-match-racing-team/usm-2015/index.html</link>
             <guid isPermaLink="false">24e2451e-ba17-474a-ae7e-2e1597fdbc11</guid>
             <pubDate>Mon, 28 Mar 2016 13:25:48 GMT</pubDate>
         </item>
